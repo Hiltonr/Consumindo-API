@@ -4,7 +4,8 @@ function Inicio() {
   
   return (
     <div className="container">
-      <h1>Inicio</h1>
+      <h1>Bem-Vindo(a)</h1>
+      <p>O zoológico rugido  do leão está aguardando sua visita </p>
       
         
       

@@ -16,6 +16,7 @@ const Galeria = () => {
     setAnimal(data);
     
   };
+  // Tentei o map, mas não funcionou. Sei a lógica, Porém  faltou tempo para buscar a solução
   
   return (
     <div className="container-animais">
